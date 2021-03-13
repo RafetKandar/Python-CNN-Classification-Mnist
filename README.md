@@ -3,32 +3,29 @@
 <img src = "img/Example-images-from-the-MNIST-dataset.png" width = 1000 ></img>
 
 
-<strong> Fruits Detection using CNN model. </strpng>
+<strong> Digit (mnist dataset) detection using CNN model. </strpng>
 
 Dataset used :
 
-Fruits 360
+Mnist
 
-A dataset of images consists of various fruits and vegetables.
+The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples.
 
 About Dataset
 
 <ul>
-  <li>Total number of images: 90483.</li>
 
-<li>Training set size: 67692 images (one fruit or vegetable per image).</li>
+<li> train-images-idx3-ubyte.gz: training set images (9912422 bytes).</li>
 
-<li>Test set size: 22688 images (one fruit or vegetable per image).</li>
+<li> train-labels-idx1-ubyte.gz: training set labels (28881 bytes).</li>
 
-<li>Multi-fruits set size: 103 images (more than one fruit (or fruit class) per image)</li>
+<li> t10k-images-idx3-ubyte.gz: test set images (1648877 bytes)</li>
 
-<li>Number of classes: 131 (fruits and vegetables).</li>
-
-<li>Image size: 100x100 pixels.</li>
+<li> t10k-labels-idx1-ubyte.gz: test set labels (4542 bytes).</li>
 
 </ul>
 
 ### Result
-<img src = "img/resultGraph.PNG"></img>
+<img src = "img/result(acc-loss).PNG"></img>
 
-You can have this dataset from : https://www.kaggle.com/moltean/fruits 
+You can have this dataset from : https://www.kaggle.com/hojjatk/mnist-dataset 
