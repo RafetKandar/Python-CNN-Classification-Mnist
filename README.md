@@ -13,14 +13,15 @@ The mnist_train.csv file contains the 60,000 training examples and labels. The m
 
 About Dataset
 
-<ul>
-  <h3> The dataset consists of two files: </h3>
+<h3> The dataset consists of two files: </h3>
 
-<ol> mnist_train.csv</ol>
+<ol>
 
-<ol> mnist_test.csv</ol>
+<li> mnist_train.csv</li>
 
-</ul>
+<li> mnist_test.csv</li>
+
+</ol>
 
 ### Result
 <img src = "img/result(acc-loss).PNG"></img>
