@@ -1,6 +1,6 @@
 # Python-CNN-Classification-Mnist
 
-<img src = "img/Example-images-from-the-MNIST-dataset.png" ></img>
+<img src = "img/Example-images-from-the-MNIST-dataset.png" width = 1000 ></img>
 
 
 <strong> Fruits Detection using CNN model. </strpng>
